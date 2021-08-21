@@ -1,0 +1,149 @@
+body{
+	margin: 0px;
+	background-color: white;
+}
+h1{
+		font-size: 1.5vw;
+}
+.fondo{
+
+	background-image: url("fondo.jpg");
+	background-repeat: repeat;
+}
+.icon{
+	color: white;
+	position: absolute;
+    top: 5%;	
+    left: 90%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFA121;
+    border: red;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.T{
+    background-color: white;
+    border: 1px solid black;
+    padding: 15px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.f1{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 5%;
+    left: 6%;
+    width: 25%;
+}
+.f2{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 5%;
+    left: 68%;
+    width: 20%;
+	}
+.f3{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 65%;
+    left: 6%;
+    width: 25%;
+}
+.f4{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 50%;
+    left: 68%;
+    width: 25%;
+    }
+.f5{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 120%;
+    left: 6%;
+    width: 15%;
+}
+.f6{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 120%;
+    left: 27%;
+    width: 15%;
+}
+.f7{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 130%;
+    left: 45%;
+    width: 20%;
+}
+.music{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    align-content: initial;	
+}
+.fondo1{
+	position: relative;
+}
+.m1{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: white;
+    border: 2px solid black;
+    padding: 0px;
+    position: absolute;
+    top: 65%;   
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu1{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m2{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: white;
+    border: 2px solid black;
+    padding: 0px;
+    position: absolute;
+    top: 101%;   
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu2{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}

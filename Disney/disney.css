@@ -1,0 +1,106 @@
+body{
+	margin: 0px;
+	background-color: white;
+}
+h1{
+		font-size: 1.5vw;
+}
+.fondo{
+
+	background-image: url("fondo.jpg");
+	background-repeat: repeat;
+    width: 100%;
+}
+.icon{
+	color: white;
+	position: absolute;
+    top: 5%;	
+    left: 90%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFA121;
+    border: red;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.T{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 15px;
+    position: absolute;
+    top: 35%;   
+    left: 80%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.T1{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+    position: absolute;
+    top: 75%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.T2{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.f1{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 5%;
+    left: 8%;
+    width: 30%;
+}
+.f2{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 160%;
+    left: 50%;
+    width: 19%;
+	}
+.f3{
+	position: absolute;
+    display: block;
+    text-align: justify;
+    top: 70%;
+    left: 6%;
+    width: 18%;
+}
+.v1{
+    position: absolute;
+    display: block;
+    text-align: justify;
+    top: 60%;
+    left: 50%;
+    width: 40%;
+    height: 50%;
+}
+.v2{
+    position: absolute;
+    display: block;
+    text-align: justify;
+    top: 130%;
+    left: 6%;
+    width: 40%;
+    height: 50%;
+}
+.v3{
+    position: absolute;
+    display: block;
+    text-align: justify;
+    top: 130%;
+    left: 50%;
+    width: 40%;
+    height: 50%;
+}

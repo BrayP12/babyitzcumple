@@ -1,0 +1,354 @@
+body{
+	margin: 0px;
+	background-color: white;
+}
+h1{
+		font-size: 2.2vw;
+        color: white;
+
+}
+.fondo{
+    position: relative;
+    background-image: url("fondo.jpg");
+    background-repeat: repeat;
+    width: 100%;
+}
+
+.icon{  
+	color: white;
+	position: absolute;
+    top: 5%;	
+    left: 90%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFA121;
+    border: red;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.T{
+    text-shadow: 1px -1px 1px black;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 15px;
+    position: absolute;
+    top: 15%;   
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.T1{
+    text-shadow: 1px -1px 1px black;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 15px;
+    position: absolute;
+    top: 350%;   
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.m1{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 50%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu1{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m2{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 50%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu2{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m3{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 100%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu3{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m4{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 100%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu4{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m5{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 150%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu5{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m6{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 150%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu6{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m7{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 200%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu7{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m8{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 200%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu8{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m9{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 250%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu9{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m10{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 250%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu10{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m11{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 300%;   
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu11{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}
+.m12{
+    border-radius: 20px;
+    display: block;
+    width: 30%;
+    height: 30%;
+    background-color: lightpink;
+    border: 2px solid darkred;
+    padding: 0px;
+    position: absolute;
+    top: 300%;   
+    left: 79%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-content: justify;
+}
+.mu12{
+    border: 0px;
+    padding: 0px;
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 0%;
+    width: 100%;
+}

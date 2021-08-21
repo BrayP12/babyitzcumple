@@ -1,0 +1,140 @@
+body{
+	margin: 0px;
+	background-color:black;
+	
+}
+h1{
+	font-size: 4vw;
+}
+h3{
+	font-size: 2vw;
+}
+.welcome{
+	color: white;
+	position: relative;
+	text-align: justify;
+
+}
+.icon{
+	color: white;
+	position: absolute;
+    top: 5%;	
+    left: 90%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFA121;
+    border: red;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.imagen{
+		color: white;
+	position: absolute;
+    top: 5%;	
+    left: 95%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFA121;
+    border: red;
+    border-radius: 20px;
+
+}
+.CumpleI{
+    position: relative;
+    display: block;
+    text-align: center;
+    
+}
+
+.CumpleT{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.HarryI{
+    position: relative;
+    text-align: center;
+}
+
+.HarryT{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: #FCC441;
+    text-shadow: 1px -1px 1px white;
+    text-align: center;
+}
+.HarryTe{
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: #FCC441;
+    text-shadow: 1px -1px 1px white;
+    text-align: center;
+}
+
+.DisneyI{
+    position: relative;
+    
+    text-align: center;
+}
+
+.DisneyT{
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 1px -2px 2px #41F1FC;
+    text-align: center;
+}
+
+.BiologiaI{
+    position: relative;
+    
+    text-align: center;
+}
+
+.BiologiaT{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: #EEC8FF;
+    text-shadow: 2px -2px 1px black;
+}
+
+.BellakeoI{
+    position: relative;
+    
+    text-align: center;
+}
+
+.BellakeoT{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    text-shadow: 1px -1px 1px yellowgreen;
+}
+.GuardianesI{
+    position: relative;
+    
+    text-align: center;
+}
+
+.GuardianesT{
+    position: absolute;
+    top: 64%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    color: #FFC8E6;
+    text-shadow: 2px -2px 1px black;
+}
